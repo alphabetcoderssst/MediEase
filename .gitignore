@@ -1,6 +1,13 @@
+# Python virtual environments
 venv/
 .venv/
+
+# Python generated files
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Environment variables
 .env
+
+# VS Code
 .vscode/
